@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('app', ['ui.router', 'app.landing']);
+    .module('app', ['ui.router', 'app.landing', 'ngMaterial']);
 
 })();
